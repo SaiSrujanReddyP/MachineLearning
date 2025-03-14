@@ -1,7 +1,7 @@
 # Vivalyse – Viva Confidence and Clarity Analysis
 
 ## 🚀 Overview
-Vivalyse is a machine learning project that quantifies student confidence and clarity in viva speeches using **Natural Language Processing (NLP)** and **audio processing** techniques. The model extracts key speech features to assess tone, pace, and word choice, providing fair and accurate evaluations.
+Vivalyse is an **AI-powered ML model** that assesses **confidence and clarity** in viva speeches using **Natural Language Processing (NLP)** and **audio processing**. From **MFCC** and **text embeddings** like **BERT, GloVe**, etc., it focuses on **confidence and clarity** for classification. The model ensures **objective and fair evaluations** applicable in **education, HR, and AI-driven hiring**.
 
 ## 🛠 Tech Stack
 - **Programming Language:** Python
